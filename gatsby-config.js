@@ -3,7 +3,7 @@ pathPrefix: "/gatsby-static-site",
 
   siteMetadata: {
     title: `GatsbyStaticSite`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://github.com/huseyineroll/gatsby-static-site`,
   },
   plugins: [],
 }
