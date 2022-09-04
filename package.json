@@ -9,9 +9,9 @@
   ],
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
+    "develop": "gatsby develop -p 80",
+    "start": "gatsby develop -p 80",
+    "build": "gatsby build ",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
