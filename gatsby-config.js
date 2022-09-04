@@ -3,7 +3,7 @@ module.exports = {
 
   siteMetadata: {
     title: `GatsbyStaticSite`,
-    siteUrl: `/`,
+    //siteUrl: `/`,
   },
   plugins: [],
 }
