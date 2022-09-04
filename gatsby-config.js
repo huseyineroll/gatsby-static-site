@@ -1,5 +1,5 @@
 module.exports = {
-pathPrefix: "/gatsby-static-site",
+pathPrefix: "/",
 
   siteMetadata: {
     title: `GatsbyStaticSite`,
